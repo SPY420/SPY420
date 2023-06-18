@@ -9,8 +9,8 @@
 ## ★ Github data ★
 >
 > *Number of visitors*
-* **Visitor Github @BilalHaiderID**
-![DUMAI-991](https://komarev.com/ghpvc/?username=Dumai-991&color=blue)
+* **Visitor Github @SPY420**
+![DUMAI-991](https://komarev.com/ghpvc/?username=SPY420&color=blue)
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
